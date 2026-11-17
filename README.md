@@ -27,11 +27,3 @@ An offline, privacy-cleaned rebuild of GameGuardian 101.4 — same features, zer
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Fland0ru&theme=radical&no-frame=true&row=1)
 
 </div>
-
----
-
-<div align="center">
-
-*Build useful things. Leave no trackers.*
-
-</div>
